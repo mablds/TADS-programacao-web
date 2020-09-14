@@ -1,0 +1,8 @@
+<svg id="birthday-icon" xmlns="http://www.w3.org/2000/svg" fill="black" viewBox="0 0 35 32">
+    <title>Birthday icon</title>
+    <path id="birthday-icon__outlines" stroke="#F0F4F1" stroke-width="1.5" d="M.75 10.75h33.5V30c0 .69-.56 1.25-1.25 1.25H2c-.69 0-1.25-.56-1.25-1.25V10.75zm8-.75v22M0 24.5h34M0 17.75h34M17.5 10v22m8.75-22v22"></path>
+    <path id="birthday-icon__title-row" fill="#black" fill-rule="evenodd" d="M24 3H11v4a1 1 0 01-1 1H7a1 1 0 01-1-1V3H2.059C.922 3 0 3.895 0 5v6h35V5c0-1.105-.922-2-2.059-2H29v4a1 1 0 01-1 1h-3a1 1 0 01-1-1V3z" clip-rule="evenodd"></path>
+    <rect id="birthday-icon__ring" width="3" fill="#F0F4F1" height="7" x="7" rx="1"></rect>
+    <rect id="birthday-icon__ring" width="3" fill="#F0F4F1" height="7" x="25"  rx="1">
+    </rect>
+</svg>

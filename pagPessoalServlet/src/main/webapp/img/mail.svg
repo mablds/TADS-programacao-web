@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" fill="#000000" viewBox="0 0 36 36">
+    <title>Email icon</title>
+    <path d="M32.33 6a2 2 0 00-.41 0h-28a2 2 0 00-.53.08l14.45 14.39z" class="clr-i-solid clr-i-solid-path-1"></path>
+    <path d="M33.81 7.39l-14.56 14.5a2 2 0 01-2.82 0L2 7.5a2 2 0 00-.07.5v20a2 2 0 002 2h28a2 2 0 002-2V8a2 2 0 00-.12-.61zM5.3 28H3.91v-1.43l7.27-7.21 1.41 1.41zm26.61 0h-1.4l-7.29-7.23 1.41-1.41 7.27 7.21z" class="clr-i-solid clr-i-solid-path-2"></path>
+    <path fill="none" d="M0 0h36v36H0z"></path>
+</svg>

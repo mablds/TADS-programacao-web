@@ -1,0 +1,153 @@
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+header {
+    font-family: 'Roboto', sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+h2 {
+    font-size: 23px;
+    text-align: center;
+    font-weight: bold;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+p {
+    font-size: 18px;
+}
+
+span {
+    font-size: 18px;
+    font-weight: bold;
+    padding-bottom: 15px;
+}
+
+#career {
+    font-size: 25px;
+    font-style: italic;
+    margin-bottom: 50px;
+}
+
+#photo {
+    background-color: rgb(114, 161, 109);
+    display: flex;
+    width: 30%;
+    margin: 20px 50px;
+}
+
+#photo img {
+    width: 70%;
+    border-radius: 50%;
+}
+
+
+.vertical-wrapper {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    padding-right: 20px;
+}
+
+#grid-infos {
+    display: grid;
+    grid-template-columns:  20px 1fr 20px 1fr;
+    gap: 20px 5px;
+}
+
+.personal-infos {
+    display: flex;
+    flex-direction: row;
+}
+
+.personal-infos img{
+    width: 20px;
+}
+
+#personal-info-wrapper {
+    background-color: rgb(114, 161, 109);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 50%;
+    min-width: 700px;
+    padding: 20px 0;
+}
+
+main {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: row;
+    width: 100%;
+}
+
+#experiences {
+    background-color: white;
+    display: flex;
+    justify-content: initial;
+    width: 25%;
+    min-width: 340px;
+    flex-direction: column;
+    padding-top: 0px;
+}
+
+.job-exp{
+    margin: 15px ;
+    text-align: justify;
+}
+
+.company{
+    margin: 10px 0;
+    font-style: italic;
+}
+
+.time {
+    margin: 10px 0;
+}
+
+#main-vertical-wrapper {
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    width: 25%;
+    min-width: 260px;
+}
+
+#skills {
+    display: flex;
+    flex-direction: column;
+    margin: 20px 30px;
+}
+
+.skill {
+    margin: 10px 0;
+}
+
+#education {
+    text-align: auto;
+    margin-bottom: 25px;
+    margin-left: 30px;
+}
+
+#language {
+    display: flex;
+    flex-direction: column;
+    margin-left: 30px;
+}
